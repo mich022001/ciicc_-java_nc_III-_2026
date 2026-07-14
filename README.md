@@ -92,14 +92,6 @@ Contributed to Android TV and Set-Top Box firmware validation, debugging, and so
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mich022001&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mich022001&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Let's Connect
 
 I'm always interested in discussing software engineering, Android development, enterprise systems, backend technologies, and opportunities to collaborate on meaningful software projects.
